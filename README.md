@@ -18,5 +18,5 @@ input = scaler.transform([[0,141,42.6,36]])
 ## Run application
 
 ```
-python3 diabetes.py
+python diabetes.py
 ```
