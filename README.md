@@ -1,5 +1,7 @@
 # Diabetes Prediction
 
+Predict if patient has diabetes. Data set is under CC0: Public Domain License. Code is under GPL v3 License.
+
 ## Install Requirements
 
 ```
